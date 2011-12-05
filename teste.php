@@ -1,5 +1,5 @@
 <?php
-$array = array('Banana' => '12','Laranja' => '12' );
+$array = array('Jaguar' => '12','BMW' => '12' );
 echo "<pre>";
     print_r($array);
 echo "</pre>";
